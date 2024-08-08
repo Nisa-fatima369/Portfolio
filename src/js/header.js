@@ -6,10 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function mapMetaDataInHeader() {
     var tagElement = document.getElementById("tag-label");
-    tagElement.innerText = 'Full Stack Flutter Expert';
+    tagElement.innerText = 'Flutter Developer';
 
-    let firstName = 'Muhammad';
-    let lastName = 'Hamza';
+    let firstName = '';
+    let lastName = 'Nisa Fatima';
 
     var firstNameElement = document.getElementById("first-name");
     firstNameElement.innerHTML = firstName;
@@ -23,27 +23,23 @@ function mapSocialLinksData() {
     let socials = [
         {
             "icon": "fa fa-linkedin-square",
-            "value": "https://linkedin.com/in/mhmzdev"
+            "value": "https://www.linkedin.com/in/nisa-fatima369"
         },
         {
             "icon": "fa fa-github",
-            "value": "https://github.com/mhmzdev"
-        },
-        {
-            "icon": "fa fa-medium",
-            "value": "https://mhmzdev.medium.com"
+            "value": "https://github.com/Nisa-fatima369"
         },
         {
             "icon": "fa fa-facebook-square",
-            "value": "https://facebook.com/mhmzdev"
+            "value": "https://www.facebook.com/nisafatima369?mibextid=ZbWKwLv"
         },
         {
             "icon": "fa fa-instagram",
-            "value": "https://instagram.com/mhmzdev"
+            "value": "https://www.instagram.com/nisafatima_369?igsh=MTF0amJ2ZWV5NHMwdw==s"
         },
         {
-            "icon": "fa fa-twitter",
-            "value": "https://twitter.com/mhmzdev"
+            "icon": "fa fa-envelope",
+            "value": "imnisafatima@gmail.com"
         }
     ];
 
@@ -108,37 +104,37 @@ function mapStatsData() {
         }
     ];
 
-    for (var i = 0; i < stats.length; i++) {
-        var stat = stats[i];
-        var value = stat["value"];
-        var txt1 = stat["text-1"];
-        var txt2 = stat["text-2"];
+    // for (var i = 0; i < stats.length; i++) {
+    //     var stat = stats[i];
+    //     var value = stat["value"];
+    //     var txt1 = stat["text-1"];
+    //     var txt2 = stat["text-2"];
 
-        var div = document.createElement("div");
-        div.className = "stats stats-data";
+    //     var div = document.createElement("div");
+    //     div.className = "stats stats-data";
 
-        var valueText = document.createElement("h1");
-        valueText.className = "value";
-        valueText.textContent = value;
+    //     var valueText = document.createElement("h1");
+    //     valueText.className = "value";
+    //     valueText.textContent = value;
 
-        var textColumn = document.createElement("div");
-        textColumn.className = "stats-label-column";
+    //     var textColumn = document.createElement("div");
+    //     textColumn.className = "stats-label-column";
 
-        var text1 = document.createElement("div");
-        text1.className = "label stats-label";
-        text1.innerHTML = txt1;
+    //     var text1 = document.createElement("div");
+    //     text1.className = "label stats-label";
+    //     text1.innerHTML = txt1;
 
-        var text2 = document.createElement("div");
-        text2.className = "label stats-label";
-        text2.innerHTML = txt2;
+    //     var text2 = document.createElement("div");
+    //     text2.className = "label stats-label";
+    //     text2.innerHTML = txt2;
 
-        textColumn.appendChild(text1);
-        textColumn.appendChild(text2);
+    //     textColumn.appendChild(text1);
+    //     textColumn.appendChild(text2);
 
-        div.appendChild(valueText);
-        div.appendChild(textColumn);
+    //     div.appendChild(valueText);
+    //     div.appendChild(textColumn);
 
-        var overaAllStatsDiv = document.getElementById("overall-stats");
-        overaAllStatsDiv.append(div);
-    }
+    //     var overaAllStatsDiv = document.getElementById("overall-stats");
+    //     overaAllStatsDiv.append(div);
+    // }
 }

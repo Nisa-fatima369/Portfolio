@@ -7,13 +7,13 @@ function mapContactDetails() {
     let contactInfo = [
         {
             "icon": "fa fa-phone",
-            "label": "+92 346 0159889",
-            "link": "https://wa.me/923460159889"
+            "label": "+92 315 7093057",
+            "link": "https://wa.me/923157093057?text="
         },
         {
             "icon": "fa fa-envelope",
-            "label": "hamza.6.shakeel@gmail.com",
-            "link": "mailto:hamza.6.shakeel@gmail.com"
+            "label": "Nisa Fatima (Gmail)",
+            "link": "mailto:imnisafatima@gmail.com"
         }
     ];
 
