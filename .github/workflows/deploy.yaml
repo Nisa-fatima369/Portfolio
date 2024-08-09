@@ -17,7 +17,7 @@
 #           run: |
 #             git checkout main
 #             git config --global user.name "mhmzdev"
-#             git config --global user.email "hamza.6.shakeel@gmail.com"
+#             git config --global user.email "Nisa Fatima.6.shakeel@gmail.com"
 
 #         - name: Build and Deploy
 #           uses: JamesIves/github-pages-deploy-action@releases/v3
