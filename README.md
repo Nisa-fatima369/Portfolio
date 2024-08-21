@@ -26,7 +26,7 @@ Here is some look'n feel from the implementation
 <img src="https://github.com/user-attachments/assets/e05e2e18-f548-409d-9a0e-7ade9848f60f">
  
 ## 🔑 License
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
  
 ## 🧑 Author
  
