@@ -5,9 +5,6 @@
 ### 💻 Live
 Check the deployed version [here][live]
  
-### 🎨 Design
-Here's the [figma][design] design for inspiration and help.
- 
 ### ⚒️ Tech Stack
 Following is the tech stack for this:
 - HTML
@@ -44,5 +41,4 @@ You can also follow my GitHub Profile to stay updated about my latest projects:
 If you liked the repo then kindly support it by giving it a star ⭐!
  
 [live]: https://nisa-fatima369.github.io/Portfolio/
-[design]: https://www.figma.com/file/DpS8wyuqikqL0e4HlSbdG4/Portfolio-for-developers?node-id=0%3A1&t=ZYIuMAgcXoqQg65d-1
 [go-live-link]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
