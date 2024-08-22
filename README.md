@@ -1,6 +1,6 @@
 ## Web Portfolio - Vanilla JS
  
-<img src="https://github.com/user-attachments/assets/6606dd1b-f757-42d5-bb1d-870843e5a2f2">
+<img src="https://github.com/user-attachments/assets/ae529ed5-e7c8-419a-a0f5-723ee1d4c7c3">
  
 ### 💻 Live
 Check the deployed version [here][live]
